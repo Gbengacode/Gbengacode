@@ -53,8 +53,8 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/emmanuel-gbenga-080b4a182"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:emmanuelreal403@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/emmanuel-gbenga-080b4a182"><img alt="LinkedIn" src=""></a>
+<a href="mailto:emmanuelreal403@gmail.com"><img alt="Email" src=""></a>
 </p>
 
 ⭐️ From [AVS1508](https://github.com/AVS1508)
