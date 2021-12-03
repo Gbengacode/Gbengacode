@@ -49,7 +49,7 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/emmanuel-gbenga-080b4a182"><img alt="LinkedIn" src=""></a>
+<a href="https://www.linkedin.com/in/emmanuel-gbenga-080b4a182"><img alt="LinkedIn" src="https://www.google.com/search?q=linkedin+logo&sxsrf=AOaemvJV7iGg1yHWo78Cq_O1hdqvXsqfFg:1638524356338&tbm=isch&source=iu&ictx=1&fir=JdyXos__tp7KHM%252CvLBuaTBzrfpOUM%252C_%253BcrkWXcUsBtemHM%252C3FpbkJ-6G3UCBM%252C_%253BxEcfVboZwdKh2M%252CkHlEyeq9h3y4cM%252C_%253Bp1GN5OU2coO8AM%252CWY63gKwSXFYfSM%252C_%253BcVe2cXra-d1FIM%252C8nf7-YFdqZUgRM%252C_%253BRY9C4agbwgVscM%252CM0HpJPjbeFRb6M%252C_%253BzBiwol2NrFeMYM%252CNJfjJtskyX_E6M%252C_%253BzRj14THxYGpoYM%252ClJtE7E84wMpehM%252C_%253Bx-skAiyXdvO4jM%252CkHlEyeq9h3y4cM%252C_%253BO5b8xzDmjwl5vM%252C4GI-E8FMbgtwNM%252C_%253BernLeyzUCwyXGM%252CkwS4y4fVp_cK7M%252C_%253BUVFSabC2FwilhM%252Cgz7-V6B6VeKJ8M%252C_%253BM38q_CrsfSBPTM%252CZC18-mGq6OaQmM%252C_%253BnAf3olXQ1ijpXM%252CBqvP2aX5mRT0nM%252C_&vet=1&usg=AI4_-kRzZhCBq_3VzlasQ_6OSe35UgpCYg&sa=X&ved=2ahUKEwjN5dvxqsf0AhVIqaQKHZzJDCoQ9QF6BAggEAE#imgrc=xEcfVboZwdKh2M"></a>
 <a href="mailto:emmanuelreal403@gmail.com"><img alt="Email" src=""></a>
 </p>
 
