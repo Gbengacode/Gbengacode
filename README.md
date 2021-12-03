@@ -1,4 +1,4 @@
-<img src="https://media-exp1.licdn.com/dms/image/C5603AQGWp7bnqKWiZQ/profile-displayphoto-shrink_100_100/0/1606147548453?e=1637193600&v=beta&t=ym7d1C5T66x5fS3qKgjBzpeJwfdWNfGMlUgMmWSdyT0">
+<img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento_still_2x.gif?compress=1&resize=400x300">
 
 <h2> Hey there! I'm Emmanuel Gbenga.</h2>
 
