@@ -49,9 +49,9 @@
 
 <p align="center">
 
-📫 How to reach me:[Linkedin](https://www.linkedin.com/in/emmanuel-gbenga/)
+📫 How to reach me: [Linkedin](https://www.linkedin.com/in/emmanuel-gbenga/)
 
-<a href="mailto:emmanuelreal403@gmail.com"><img alt="Email" src="">Emmanuelreal403@gmail.com</a>
+📫 How to reach me: <a href="mailto:emmanuelreal403@gmail.com">Emmanuelreal403@gmail.com</a>
 </p>
 
 ⭐️ From [AVS1508](https://github.com/AVS1508)
