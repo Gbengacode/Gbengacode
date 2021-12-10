@@ -52,6 +52,4 @@
 📫 How to reach me: <a href="mailto:emmanuelreal403@gmail.com">Emmanuelreal403@gmail.com</a>
 </p>
 
-<p align="center">![Visitor Count](https://profile-counter.glitch.me/gbengacode/count.svg)</p>
 
- 
