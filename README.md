@@ -42,7 +42,8 @@
  - 🔭 I’m currently working on [todo-list application-testing](https://gbengacode.github.io/todolist-app/dist/)
 
  - 🌱 I’m currently working on **many things**
-
+ - 
+ - 🌱 I’m open to remote jobs 
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gbengacode&theme=radical)
