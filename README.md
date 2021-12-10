@@ -45,6 +45,7 @@
 <br/>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gbengacode&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gbengacode&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
