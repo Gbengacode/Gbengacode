@@ -38,6 +38,12 @@
 - 🖥 &nbsp;
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   
+  
+ - 🔭 I’m currently working on [todo-list application-testing](https://gbengacode.github.io/todolist-app/dist/)
+
+ - 🌱 I’m currently working on **many things**
+
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gbengacode&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gbengacode&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
