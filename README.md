@@ -44,6 +44,9 @@
 
 <br/>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gbengacode&theme=radical)
+
+
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
