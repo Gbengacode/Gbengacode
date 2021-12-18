@@ -39,7 +39,6 @@
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   
   
- - 🔭 I’m currently working on [todo-list application-testing](https://gbengacode.github.io/todolist-app/dist/)
 
  - 🌱 I’m currently working on **many things**
  
