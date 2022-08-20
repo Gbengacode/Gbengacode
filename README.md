@@ -46,9 +46,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gbengacode&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
     
-    <a href="https://trackgit.com">
-<img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/l72692f2azia6x0uzxl7" alt="trackgit-views" />
-</a>
+    <a href="https://trackgit.com"><img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/l72692f2azia6x0uzxl7" alt="trackgit views" /> </a>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
