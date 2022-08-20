@@ -6,7 +6,6 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Study Computer Science Kogi State University .
-- 🎓 &nbsp; Currently enroll in Microverse Program .
 - 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Web and mobile development.
@@ -47,6 +46,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gbengacode&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
     
+    <a href="https://trackgit.com">
+<img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/l72692f2azia6x0uzxl7" alt="trackgit-views" />
+</a>
+
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
