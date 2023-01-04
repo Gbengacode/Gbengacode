@@ -4,6 +4,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
+- 🤔 &nbsp; I am a software developer of over 4 years of experience.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Study Computer Science Kogi State University .
 - 💼 &nbsp; Working as a software developer at kamchezreal
