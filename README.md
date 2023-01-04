@@ -10,7 +10,6 @@
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gbengacode&label=Profile%20views&color=0e75b6&style=flat" alt="gbengacode" /> </p>
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
@@ -38,7 +37,7 @@
   
   
 
- - 🌱 I’m currently working on **many things**
+ - 🌱 I’m currently working on **social networking site**
  
  - 🌱 I’m open to remote jobs 
 
