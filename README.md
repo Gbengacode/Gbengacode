@@ -10,6 +10,8 @@
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gbengacode&label=Profile%20views&color=0e75b6&style=flat" alt="gbengacode" /> </p>
+
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
