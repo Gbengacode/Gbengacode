@@ -7,8 +7,8 @@
 - 🤔 &nbsp; I am a software developer of over 6 years of experience.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Study Computer Science Kogi State University .
-- 💼 &nbsp; Working as a software developer at kamchezreal
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
+- 💼 &nbsp; Working as a software developer and a Codementor in Codementor.io
+- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design, and Artificial Intelligence.
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 
